@@ -1,10 +1,13 @@
 # Domain Password Audit Tool (DPAT)
 
+### Fork includes updates for password wordlist output, cosmetics, and table search / sorting.
+
+##### Based entirely on the awesome work of clr2of8
+
 This is a python script that will generate password use statistics from password hashes dumped from a domain controller and a password crack file such as hashcat.potfile generated from the Hashcat tool during password cracking. The report is an HTML report with clickable links.
 
 
 ![alt text](dpatSummary.png "DPAT Summary Table")
-![alt text](history.png "DPAT Summary Table")
 
 A full video tutorial and demo can be viewed here: [http://www.blackhillsinfosec.com/?p=5527](http://www.blackhillsinfosec.com/?p=5527).
 
