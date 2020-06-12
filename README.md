@@ -119,6 +119,7 @@ optional arguments:
                         list must be in the same format as found in the NTDS
                         file such as some.ad.domain.com\username. Example: -g
                         "Domain Admins.txt" "Enterprise Admins.txt"
+  -p PASSWORDFILE       Outputs passwords to file.
 ```
 
 ## Originally Sponsored by:
